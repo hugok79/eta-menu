@@ -1,3 +1,12 @@
+eta-menu (2.2.0) unstable; urgency=medium
+
+  * Fix super key app show-hide time controls
+  * Add keyboard selection, easy navigating support for search results
+  * Update main window key press event controls
+  * Update mainwindow key relase event as key press event
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 05 Oct 2026 12:39:15 +0300
+
 eta-menu (2.1.1) unstable; urgency=medium
 
   * Fix menu monitor selection
